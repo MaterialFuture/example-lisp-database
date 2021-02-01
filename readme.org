@@ -1,0 +1,7 @@
+#+TITLE: Quotes
+
+Generate Quotes using Common Lisp's Object System and Mito.
+
+Meant to test how Common Lisp can be used for real world applications.
+
+Very WIP
